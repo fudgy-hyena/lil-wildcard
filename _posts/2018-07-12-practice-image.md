@@ -1,1 +1,1 @@
-![it me](fudgy-hyena.github.io/assets/1526610059.deerstar_img_20180515_134200357.jpg)
+{% include figure image_path="/assets/1526610059.deerstar_img_20180515_134200357.jpg" caption="look it's him" %}
