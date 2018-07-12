@@ -3,7 +3,7 @@ layout: archive
 author_profile: true
 ---
 
-good day
+# good day
 
 im a small guy from florida and i like games and i love my friends very much
 
